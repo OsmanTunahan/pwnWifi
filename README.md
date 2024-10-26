@@ -27,11 +27,8 @@ sudo apt-get update
 sudo apt-get install aircrack-ng macchanger xterm hcxdumptool hashcat -y
 ```
 
-Ensure you have the `rockyou.txt` wordlist:
-
-```bash
-sudo apt-get install wordlists
-```
+If you do not have the wordlist `rockyou.txt`:
+- [Click Here!](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
 
 ## Usage
 
